@@ -1,6 +1,8 @@
-h2 {color:blue; }
+git commit -mh2 {color:blue; }
 
 .purple {color:purple;}
+.pointer {}
+.redclass {color:red;}
 
 body {
 	background-color: black;
